@@ -20,9 +20,6 @@ export default class PlantList extends Component {
       })
       });
   }
-  componentWillUnmount(){
-    console.log('component will not unmount')
-  }
 
   /*********  DON'T CHANGE ANYTHING IN THE RENDER FUNCTION *********/
   render() {
